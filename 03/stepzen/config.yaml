@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: unsplash_config
+      unsplash_clientId: ""
