@@ -1,4 +1,4 @@
 configurationset:
   - configuration:
       name: unsplash_config
-      unsplash_clientId: ""
+      unsplash_clientId: !unsplash_api_access_key
