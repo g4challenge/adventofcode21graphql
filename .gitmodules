@@ -1,0 +1,3 @@
+[submodule "advent-gql-next-ui"]
+	path = advent-gql-next-ui
+	url = https://github.com/Cerchie/advent-gql-next-ui.git
